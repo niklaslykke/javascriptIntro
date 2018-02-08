@@ -1,5 +1,9 @@
 # JavaScript Introduktion (2 lektioner)
 
+## SHOW ME WHAT YOU GOT!
+
+I GOT NOTHING!
+
 ## Nogen gode liks
 
 * [Understanding the Github Flow](https://guides.github.com/introduction/flow/)
